@@ -9,10 +9,10 @@ import os
 
 #insert your instagram ID, password
 ID = ''
-PASSWORD = '!'
+PASSWORD = ''
 
 TAG = 'jeju'
-SCROLL_NUMBER = 100
+SCROLL_NUMBER = 10
 POST_LINK = '#react-root > section > main > article > div:nth-child(3) > div > div > div > a'
 USER_NAME = '#react-root > section > main > div > div > article > header > div.o-MQd.z8cbW > div.PQo_0.RqtMr > div.e1e1d > a'
 CONTENT = '#react-root > section > main > div > div.ltEKP > article > div.eo2As > div.EtaWk > ul > div > li > div > div > div.C4VMK > span'
